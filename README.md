@@ -1,7 +1,7 @@
 # :point_right: **Manager Resources** :point_left:
 This is a curated list of talks, books, and other resources for front line engineering managers. Hopefully you can find them useful. Whenever I find another resource that is worth adding, I will update this list. Suggestions are always appreciated through a pull request.
 
-If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) or on [linkedin](https://www.linkedin.com/in/vidalgraupera/).
+
 
 ## Books
 
